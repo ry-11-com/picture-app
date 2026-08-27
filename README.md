@@ -1,8 +1,6 @@
 # Dump — files to upload to GitHub Pages
 
-Upload all 9 files below to your repo (same one you already used —
-`ry-11-com.github.io/picture-app/`), replacing what's there. Commit, wait
-~30 seconds for Pages to redeploy, then re-check the URL in PWABuilder.
+
 
 ## Files
 - `index.html` — the whole app (self-contained, nothing else to load)
